@@ -2,6 +2,9 @@
 layout: page
 title: Research
 ---
+# Publications
+### Preprint 
+L. Alamichel, D. Bystrova, J. Arbel and G. Kon Kam King, "*Bayesian mixture models (in)consistency for the number of clusters*", 2022 ([Link](https://arxiv.org/abs/2210.14201)) 
 
 # Conferences 
 ### 2022
