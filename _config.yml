@@ -244,7 +244,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - index.html
   - docs/
 
 plugins:
