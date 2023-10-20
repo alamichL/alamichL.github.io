@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-full-width: true 
+full-width: false 
 ---
 
 # Université Grenoble Alpes
