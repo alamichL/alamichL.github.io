@@ -12,4 +12,5 @@ I am interested in the properties of Bayesian non-parametric models. I work on i
 Before, I did [Stat-ML Master](https://master-statml.imo.universite-paris-saclay.fr/) at Université Paris-Saclay in 2021.
 \
 \
+\
 .
