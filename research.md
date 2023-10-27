@@ -5,19 +5,23 @@ title: Research
 
 <style type="text/css">
 .main-container {
-  max-width: 100% !important;
-  margin: auto;
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 
 
 
+
 # Publications
+\ 
 - L. Alamichel, D. Bystrova, J. Arbel and G. Kon Kam King, "*Bayesian mixture models (in)consistency for the number of clusters*". **Preprint, submitted**, 2022. ([arxiv](https://arxiv.org/abs/2210.14201)/[HAL](https://inria.hal.science/hal-03866434)) 
 - C. Lawless, L. Alamichel, J. Arbel and G. Kon Kam King, "*Clustering inconsistency for Pitman–Yor mixture models with a prior on the precision but fixed discount parameter*", In *Fifth Symposium on Advances in Approximate Bayesian Inference*, 2023. ([Link](https://openreview.net/forum?id=r9CvCsfkfPW))
 
 
 # Conferences 
+\ 
 ### 2022
 - **JDS 2022**, Communication & Contributed Talk: *"On the consistency of Bayesian nonparametric mixtures for the number of clusters"* ([Link](https://jds22.sciencesconf.org/))
 - **BAYSM 2022**, Poster: *"Bayesian nonparametric mixtures inconsistency for the number of clusters"* ([Link](https://events.stat.uconn.edu/BAYSM2022/))
