@@ -10,7 +10,5 @@ I'm a PhD student at [Inria Grenoble - Rhône-Alpes](https://www.inria.fr/fr/cen
 I am interested in the properties of Bayesian non-parametric models. I work on inference of the number of clusters in Bayesian mixture models, and in particular on the asymptotic properties of these models.
 
 Before, I did [Stat-ML Master](https://master-statml.imo.universite-paris-saclay.fr/) at Université Paris-Saclay in 2021.
-\
-\
-\
-.
+
+<br> </br>
