@@ -1,18 +1,10 @@
 ---
 layout: page
 title: Research
+width: true
 ---
 
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 <br> 
-
  
 # Publications
 - L. Alamichel, D. Bystrova, J. Arbel and G. Kon Kam King, "*Bayesian mixture models (in)consistency for the number of clusters*". **Preprint, submitted**, 2022. ([arxiv](https://arxiv.org/abs/2210.14201)/[HAL](https://inria.hal.science/hal-03866434)) 
