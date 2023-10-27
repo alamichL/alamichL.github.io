@@ -1,8 +1,15 @@
 ---
 layout: page
 title: Research
-full-width: false 
 ---
+
+<style type="text/css">
+.main-container {
+  max-width: 100% !important;
+  margin: auto;
+}
+</style>
+
 
 
 # Publications
