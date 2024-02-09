@@ -22,3 +22,4 @@ width: true
 - **Approximation Methods in Bayesian Analysis Workshop**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"*
 - **AABI 2023**, Communication & Poster: *"Clustering inconsistency for Pitman–Yor mixture models with a prior on the precision but fixed discount parameter"* ([Link](http://approximateinference.org/))
 - **Bayes@CIRM**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://bayesatcirm.github.io/2023/))
+- **CMStatistics 2023**, Invited Talk *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://www.cmstatistics.org/CMStatistics2023/))
