@@ -16,7 +16,7 @@ width: true
 ### 2024
 - **BAYSM 2024**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://events.stat.uconn.edu/BAYSM2024/))
 - **ISBA 2024**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://www.unive.it/web/en/2208/home)), *Best poster award*
-- **CMStatistics 2024**, Invited Talk *Upcomming conference* ([Link](https://www.cmstatistics.org/CMStatistics2024/))
+- **CMStatistics 2024**, Invited Talk "*Species Sensitivity Distribution revisited: a Bayesian nonparametric approach*" ([Link](https://www.cmstatistics.org/CMStatistics2024/))
 
 ### 2023
 - **Approximation Methods in Bayesian Analysis Workshop**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"*
