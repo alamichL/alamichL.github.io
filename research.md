@@ -12,11 +12,18 @@ width: true
 - L. Alamichel, J. Arbel, G. Kon Kam King and I. Prünster, "*Species Sensitivity Distribution revisited: a Bayesian nonparametric approach*", **Submitted**, 2024.
 
 
-# Conferences 
+# Conferences and Seminars
+### 2025
+- **Seminar**, LAMSADE Paris Dauphine University – PSL ([MILES project-team]([https://www.cmstatistics.org/CMStatistics2024/](https://www.lamsade.dauphine.fr/wp/miles/)))
+- **BAYSM 2025**, Contributed Talk (Online): "*Enriched zero-inflated Stochastic block model*" ([Link](https://baysm2025.github.io/))
+- **BISP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bisp14.imati.cnr.it/home_page.php)) 
+- **BNP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bnp14.org/))
+- **Seminar**, MAP5 Paris-Cité University
+
 ### 2024
 - **BAYSM 2024**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://events.stat.uconn.edu/BAYSM2024/))
 - **ISBA 2024**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://www.unive.it/web/en/2208/home)), *Best poster award*
-- **CMStatistics 2024**, Invited Talk "*Species Sensitivity Distribution revisited: a Bayesian nonparametric approach*" ([Link](https://www.cmstatistics.org/CMStatistics2024/))
+- **CMStatistics 2024**, Invited Talk: "*Species Sensitivity Distribution revisited: a Bayesian nonparametric approach*" ([Link](https://www.cmstatistics.org/CMStatistics2024/))
 
 ### 2023
 - **Approximation Methods in Bayesian Analysis Workshop**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"*
