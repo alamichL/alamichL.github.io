@@ -24,7 +24,7 @@ width: true
 ### 2025
 - **Seminar**, LAMSADE Paris Dauphine University – PSL ([MILES project-team]([https://www.cmstatistics.org/CMStatistics2024/](https://www.lamsade.dauphine.fr/wp/miles/)))
 - **BAYSM 2025**, Contributed Talk (Online): "*Enriched zero-inflated Stochastic block model*" ([Link](https://baysm2025.github.io/))
-- **BISP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bisp14.imati.cnr.it/home_page.php)) 
+- **BISP 14**, Invited Talk: "*Enriched Stochastic block model*" ([Link](https://bisp14.imati.cnr.it/home_page.php)) 
 - **BNP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bnp14.org/))
 - **Seminar**, MAP5 Paris-Cité University
 - **CMStatistics 2025**, Invited Talk: "*Partially exchangeable enriched stochastic block model*" ([Link](https://www.cmstatistics.org/CMStatistics2025/))
