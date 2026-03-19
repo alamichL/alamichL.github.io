@@ -9,7 +9,7 @@ width: true
 # Publications
 - L. Alamichel, J. Arbel, G. Kon Kam King and I. Prünster, "Species Sensitivity Distribution revisited: a Bayesian nonparametric approach", *Journal of the Royal Statistical Society Series C: Applied Statistics*, 2026. ([Link](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlag007/8490487?guestAccessKey=))
 - L. Alamichel, D. Bystrova, J. Arbel and G. Kon Kam King, "Bayesian mixture models (in)consistency for the number of clusters", *Scandinavian Journal of Statistics*, 2024. ([Link](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12739)) 
-- C. Lawless, L. Alamichel, J. Arbel and G. Kon Kam King, "*Clustering inconsistency for Pitman–Yor mixture models with a prior on the precision but fixed discount parameter*", In *Fifth Symposium on Advances in Approximate Bayesian Inference*, 2023. ([Link](https://openreview.net/forum?id=r9CvCsfkfPW))
+- C. Lawless, L. Alamichel, J. Arbel and G. Kon Kam King, "Clustering inconsistency for Pitman–Yor mixture models with a prior on the precision but fixed discount parameter", In *Fifth Symposium on Advances in Approximate Bayesian Inference*, 2023. ([Link](https://openreview.net/forum?id=r9CvCsfkfPW))
 
 
 # Conferences and Seminars
