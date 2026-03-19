@@ -13,12 +13,21 @@ width: true
 
 
 # Conferences and Seminars
+### 2026
+- **Seminar**, Institute of Computing, Università della Svizzera Italiana, Lugano.
+- **Seminar**, MIA Paris-Saclay, AgroParis-Tech.
+#### *Upcomming* 
+- **Statlearn 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://statlearn.sciencesconf.org/registration?lang=en))
+- **ISBA 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://isba2026.github.io/)) 
+- **IFCS 2026**, Invited Talk: "*Partially exchangeable enriched stochastic block model*" ([Link](https://ifcs2026.unimib.it/))
+
 ### 2025
 - **Seminar**, LAMSADE Paris Dauphine University – PSL ([MILES project-team]([https://www.cmstatistics.org/CMStatistics2024/](https://www.lamsade.dauphine.fr/wp/miles/)))
 - **BAYSM 2025**, Contributed Talk (Online): "*Enriched zero-inflated Stochastic block model*" ([Link](https://baysm2025.github.io/))
 - **BISP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bisp14.imati.cnr.it/home_page.php)) 
 - **BNP 14**, Contributed Talk: "*Enriched Stochastic block model*" ([Link](https://bnp14.org/))
 - **Seminar**, MAP5 Paris-Cité University
+- **CMStatistics 2025**, Invited Talk: "*Partially exchangeable enriched stochastic block model*" ([Link](https://www.cmstatistics.org/CMStatistics2025/))
 
 ### 2024
 - **BAYSM 2024**, Poster: *"Bayesian mixture models (in)consistency for the number of clusters"* ([Link](https://events.stat.uconn.edu/BAYSM2024/))
