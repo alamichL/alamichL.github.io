@@ -14,12 +14,14 @@ width: true
 
 # Conferences and Seminars
 ### 2026
-- **Seminar**, Institute of Computing, Università della Svizzera Italiana, Lugano.
-- **Seminar**, MIA Paris-Saclay, AgroParis-Tech.
-#### *Upcomming* 
-- **Statlearn 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://statlearn.sciencesconf.org/registration?lang=en))
-- **ISBA 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://isba2026.github.io/)) 
+- **IDWSDS 2026**, Invited Talk: "*Bayesian nonparametric dependent edge-exchangeable network models for criminal data*" ([Link](https://www.idwsds.org/))
 - **IFCS 2026**, Invited Talk: "*Partially exchangeable enriched stochastic block model*" ([Link](https://ifcs2026.unimib.it/))
+- **ISBA 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://isba2026.github.io/)) 
+-  **JdS 2026**, Contributed Talk: "*Bayesian nonparametric dependent edge-exchangeable network models for criminal data*" ([Link](https://jds2026.sciencesconf.org/))
+- **Seminar**, All About that Bayes, IHP ([Link](https://sites.google.com/view/all-about-that-bayes/))
+- **Statlearn 2026**, Poster: "*Partially exchangeable enriched stochastic block model*" ([Link](https://statlearn.sciencesconf.org/registration?lang=en))
+- **Seminar**, MIA Paris-Saclay, AgroParis-Tech.
+- **Seminar**, Institute of Computing, Università della Svizzera Italiana, Lugano.
 
 ### 2025
 - **Seminar**, LAMSADE Paris Dauphine University – PSL ([MILES project-team]([https://www.cmstatistics.org/CMStatistics2024/](https://www.lamsade.dauphine.fr/wp/miles/)))
